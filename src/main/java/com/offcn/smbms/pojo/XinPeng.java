@@ -5,4 +5,5 @@ public class XinPeng {
     int age;
     String password;
     String asdas;
+    String abc;
 }
