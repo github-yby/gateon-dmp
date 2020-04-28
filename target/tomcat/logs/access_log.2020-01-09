@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [09/Jan/2020:14:19:25 +0800] "GET / HTTP/1.1" 200 1713 http-bio-8081-exec-1 280
+0:0:0:0:0:0:0:1 - - [09/Jan/2020:14:19:25 +0800] "GET /css/style.css HTTP/1.1" 200 8465 http-bio-8081-exec-3 8
+0:0:0:0:0:0:0:1 - - [09/Jan/2020:14:19:25 +0800] "GET /js/jquery.js HTTP/1.1" 200 273199 http-bio-8081-exec-2 9
+0:0:0:0:0:0:0:1 - - [09/Jan/2020:14:19:25 +0800] "GET /img/loginBg.jpg HTTP/1.1" 200 18389 http-bio-8081-exec-5 4
+0:0:0:0:0:0:0:1 - - [09/Jan/2020:14:19:25 +0800] "GET /img/login_bg.jpg HTTP/1.1" 200 45619 http-bio-8081-exec-4 4
+0:0:0:0:0:0:0:1 - - [09/Jan/2020:14:19:25 +0800] "GET /img/formBg.png HTTP/1.1" 200 41921 http-bio-8081-exec-6 3
+0:0:0:0:0:0:0:1 - - [09/Jan/2020:14:19:25 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-9 3
